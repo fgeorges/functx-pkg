@@ -1,0 +1,19 @@
+<package xmlns="http://expath.org/ns/pkg"
+         spec="1.0"
+         abbrev="functx"
+         version="1.0"
+         name="http://functx.com/">
+
+   <title>FunctX</title>
+
+   <xquery>
+      <namespace>http://www.functx.com</namespace>
+      <file>functx-1.0-doc-2007-01.xq</file>
+   </xquery>
+
+   <xslt>
+      <import-uri>http://functx.com/functx.xsl</import-uri>
+      <file>functx-1.0-doc-2007-01.xsl</file>
+   </xslt>
+
+</package>
